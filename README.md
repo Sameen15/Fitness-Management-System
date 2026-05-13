@@ -1,4 +1,7 @@
 # Fitness Management System
+Project Overview
+
+This is a console-based Fitness Management System developed in C++ using object-oriented programming and file handling. It helps users manage fitness routines, diet plans, subscriptions, and track their progress with persistent data storage. The system is modular, well-structured, and demonstrates core OOP concepts like inheritance and composition.
 👥 Members Work Distribution
 
 Member 1 – Sameen Altaf
