@@ -1,0 +1,10 @@
+Breakfast: Eggs + Oats + Milk
+Lunch: Chicken + Rice + Salad
+Evening Snack: Banana + Dry Fruits
+Dinner: Fish + Vegetables
+=========================
+Breakfast: Eggs + Oats + Milk
+Lunch: Chicken + Rice + Salad
+Evening Snack: Banana + Dry Fruits
+Dinner: Fish + Vegetables
+=========================

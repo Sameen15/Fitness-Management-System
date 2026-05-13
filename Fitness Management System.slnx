@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Fitness Management System/Fitness Management System.vcxproj" Id="386bfa9f-8fc0-4d92-8dde-5463f76a2f61" />
+</Solution>
