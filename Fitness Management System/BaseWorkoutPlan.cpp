@@ -3,5 +3,6 @@
 using namespace std;
 
 void BaseWorkoutPlan::showPlan() {
-    cout << "Base Workout Plan" << endl;
+    cout << "Base Workout Plan in progress" << endl;
+    
 }
